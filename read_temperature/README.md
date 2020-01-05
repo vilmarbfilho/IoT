@@ -10,3 +10,8 @@
 [Lendo dados do Google planilhas com ESP – Banco de dados](https://portal.vidadesilicio.com.br/lendo-dados-do-google-planilhas-banco-de-dados/)
 
 [NodeMCU e o uso de APIs](https://www.robocore.net/tutoriais/nodemcu-usando-apis)
+
+[ESP8266 NodeMCU HTTPS Secured GET Request](https://circuits4you.com/2019/01/10/esp8266-nodemcu-https-secured-get-request/)
+
+[ESP8266 HTTP GET Request Example](https://circuits4you.com/2018/03/10/esp8266-http-get-request-example/)
+
