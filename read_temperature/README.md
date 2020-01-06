@@ -15,3 +15,12 @@
 
 [ESP8266 HTTP GET Request Example](https://circuits4you.com/2018/03/10/esp8266-http-get-request-example/)
 
+[Como utilizar o sensor de temperatura e umidade relativa DHT22 com o NodeMCU (MIC162)](https://www.newtoncbraga.com.br/index.php/microcontrolador/143-tecnologia/14349-como-utilizar-o-sensor-de-temperatura-e-umidade-relativa-dht22-com-o-nodemcu-mic162)
+
+[DHT11 Temperature & Humidity sensor on NodeMCU using Arduino IDE](https://roboindia.com/tutorials/dht11-nodemcu-arduino/)
+
+[Interface DHT11 DHT22 w/ ESP8266 NodeMCU Using Web Server](https://lastminuteengineers.com/esp8266-dht11-dht22-web-server-tutorial/)
+
+[Monitoramento de ambiente com NodeMCU](http://autocorerobotica.blog.br/monitoramento-de-ambiente-com-nodemcu/)
+
+[Exibindo valores de temperatura e umidade no app MQTT Dash com o sensor DHT11](https://www.embarcados.com.br/temperatura-e-umidade-no-mqtt-dash-dht11/)
