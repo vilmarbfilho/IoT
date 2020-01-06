@@ -12,7 +12,8 @@ function doGet(e) {
     var newRow = sheet.getLastRow() + 1;						
     var rowData = [];
   
-    rowData[0] = new Date(); 											// Timestamp in column A
+    // Timezone = GMT-3:00 Brazil
+    rowData[0] = Utilities.formatDate(new Date(), "GMT-3:00", "dd/MM/yyyy HH:mm"); // Timestamp in column A
     
     for (var param in e.parameter) {
       Logger.log('In for loop, param=' + param);
@@ -23,11 +24,11 @@ function doGet(e) {
     
       switch (param) {
         case 'temperature': //Parameter
-          rowData[1] = value; //Value in column B
+          rowData[1] = value + "° C"; //Value in column Temperature
           result = 'Written on column B';
           break;
         case 'humidity': //Parameter
-          rowData[2] = value; //Value in column C
+          rowData[2] = value + "%"; //Value in column Humidity
           result += ' ,Written on column C';
           break;  
         default:
